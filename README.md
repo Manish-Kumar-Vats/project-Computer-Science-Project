@@ -41,7 +41,7 @@ To set up the app on your local machine, follow these steps:
 - **Track Leaderboard Rankings**: See how you rank compared to other users.
 
 ## Contributing
-Contributions to the Chat App are welcome. Please consider the following steps:
+Contributions to the Quiz App are welcome. Please consider the following steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes and commit them (`git commit -am 'Add some feature'`).
